@@ -1,0 +1,7 @@
+{
+    "entry": "index.mjs",
+    "out": "Rocast.exe",
+    "properties": {
+        "FileDescription": "Rocast host executable"
+    }
+}

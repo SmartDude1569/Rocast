@@ -1,0 +1,20 @@
+{
+  "name": "rocast",
+  "version": "0.0.1",
+  "description": "The host program for the Rocast experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awalker909",
+  "license": "MIT",
+  "dependencies": {
+    "@achingbrain/nat-port-mapper": "^2.0.10",
+    "@angablue/exe": "^3.2.3",
+    "compression": "^1.7.5",
+    "express": "^4.21.1",
+    "ip": "^2.0.1",
+    "node-screenshots": "^0.2.1"
+  },
+  "type": "module"
+}
